@@ -1,0 +1,13 @@
+[project]
+name = "mpc-estudo"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "fastmcp>=2.10.5",
+    "groq>=0.30.0",
+    "openai>=1.97.0",
+    "python-dotenv>=1.1.1",
+    "wikipedia>=1.4.0",
+]
